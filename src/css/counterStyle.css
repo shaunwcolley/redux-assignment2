@@ -1,0 +1,14 @@
+.counterDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.counterDiv div button {
+  background-color: skyblue;
+  color: white;
+  border-radius: 30%;
+  border-color: skyblue;
+  margin-left: .5rem;
+  margin-right: .5rem;
+}
